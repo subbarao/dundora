@@ -28,6 +28,10 @@ class dundoraTests: XCTestCase {
     func testExample1() {
         XCTAssert(true, "Pass")
     }
+
+    func testExample3() {
+        XCTAssert(true, "Pass")
+    }
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
