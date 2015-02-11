@@ -22,7 +22,10 @@ class dundoraTests: XCTestCase {
     }
     
     func testExample() {
-        // This is an example of a functional test case.
+        XCTAssert(true, "Pass")
+    }
+    
+    func testExample1() {
         XCTAssert(true, "Pass")
     }
     
