@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0CAD3BFD-AB38-448E-B6A1-28D37FB65D26</string>
+	<key>IDESourceControlProjectName</key>
+	<string>dundora</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0FAAC8E71A86E22275D57DD236D1673DB6EE2CE6</key>
+		<string>https://github.com/subbarao/dundora.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>dundora.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0FAAC8E71A86E22275D57DD236D1673DB6EE2CE6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/subbarao/dundora.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0FAAC8E71A86E22275D57DD236D1673DB6EE2CE6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0FAAC8E71A86E22275D57DD236D1673DB6EE2CE6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>dundora</string>
+		</dict>
+	</array>
+</dict>
+</plist>
